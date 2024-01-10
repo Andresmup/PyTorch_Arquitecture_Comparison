@@ -1,6 +1,6 @@
 👋 Bienvenido/a a mi proyecto de comparación de arquitecturas de CNN usando PyTorch.
 
-🚲 Este proyecto se basa en comparar diferentes modelos de las arquitecturas ResNet y EfficientNet en el ambito de clasificacióm de imagenes. 🚲
+🔥 Este proyecto se basa en comparar diferentes modelos de las arquitecturas ResNet y EfficientNet en el ambito de clasificacióm de imagenes. 🔥
 
 📊El objetivo es poder entrenar y testear diferentes modelos de PyTorch para realizar comparaciones de perfomance.📈
 
