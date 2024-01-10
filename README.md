@@ -2,7 +2,7 @@
 
 🔥 Este proyecto se basa en comparar diferentes modelos de las arquitecturas ResNet y EfficientNet en el ambito de clasificacióm de imagenes. 🔥
 
-📊El objetivo es poder entrenar y testear diferentes modelos de PyTorch para realizar comparaciones de perfomance.📈
+📊El objetivo es poder entrenar y testear diferentes modelos de PyTorch para realizar comparaciones de desempeño.📈
 
 ✅ Este proyecto contiene manejo de archivos, uso de diversas librerias, calculo de metricas, análisis y prepocesado de imagenes en Python. 🐍📊 
 
